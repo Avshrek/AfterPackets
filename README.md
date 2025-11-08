@@ -1,41 +1,41 @@
-# 🎯 Mobile Packet Hunter
+# AFTERPACKETS
 
 **Professional-Grade Mobile Deep Packet Inspection & Network Analysis Platform**
 
 A comprehensive cybersecurity tool featuring:
-- 📱 **Android App**: Real-time packet capture via VPNService with native DPI engine
-- 💻 **Desktop Web App**: Advanced visualization, timeline replay, and geo-location mapping
-- 🔒 **Security-First**: Encrypted exports, audit logging, legal consent enforcement
+-  **Android App**: Real-time packet capture via VPNService with native DPI engine
+-  **Desktop Web App**: Advanced visualization, timeline replay, and geo-location mapping
+-  **Security-First**: Encrypted exports, audit logging, legal consent enforcement
 
 ---
 
-## 🌟 Features
+##  Features
 
 ### Core MVP Features
 
 #### Android App
-- ✅ **Packet Capture**: VPNService-based capture (no root required)
-- ✅ **Deep Packet Inspection**: Native C++ parser for IP/TCP/UDP/ICMP/HTTP/DNS/TLS
-- ✅ **Real-time Dashboard**: Live metrics, protocol distribution, top talkers
-- ✅ **Security Alerts**: MITM detection, DNS spoofing, data exfiltration, ARP spoofing
-- ✅ **Quick Filters**: One-tap filtering (HTTP/HTTPS, DNS, Large Transfers, ICMP, TLS)
-- ✅ **Export Formats**: PCAP (Wireshark-compatible), JSON metadata, Evidence bundles
-- ✅ **Legal Compliance**: Consent dialog, audit logging, auto-cleanup
+-  **Packet Capture**: VPNService-based capture (no root required)
+-  **Deep Packet Inspection**: Native C++ parser for IP/TCP/UDP/ICMP/HTTP/DNS/TLS
+-  **Real-time Dashboard**: Live metrics, protocol distribution, top talkers
+-  **Security Alerts**: MITM detection, DNS spoofing, data exfiltration, ARP spoofing
+-  **Quick Filters**: One-tap filtering (HTTP/HTTPS, DNS, Large Transfers, ICMP, TLS)
+-  **Export Formats**: PCAP (Wireshark-compatible), JSON metadata, Evidence bundles
+-  **Legal Compliance**: Consent dialog, audit logging, auto-cleanup
 
 #### Desktop Web App
-- ✅ **Import & Visualize**: Drag-and-drop evidence bundle import
-- ✅ **Dashboard Analytics**: Interactive charts (Recharts), protocol breakdown
-- ✅ **Timeline Replay**: Playback captured sessions with temporal visualization
-- ✅ **Rule Builder**: Create & manage custom detection rules
-- ✅ **Cross-Platform**: Works on Mac, Windows, Linux
+-  **Import & Visualize**: Drag-and-drop evidence bundle import
+-  **Dashboard Analytics**: Interactive charts (Recharts), protocol breakdown
+-  **Timeline Replay**: Playback captured sessions with temporal visualization
+-  **Rule Builder**: Create & manage custom detection rules
+-  **Cross-Platform**: Works on Mac, Windows, Linux
 
-### 💎 Bonus Features
-- ⚡ **One-Tap Security Filters**: Pre-configured filters for common threat patterns
-- ⚖️ **Live Rule Builder**: Custom detection rules with real-time triggers
+###  Bonus Features
+-  **One-Tap Security Filters**: Pre-configured filters for common threat patterns
+-  **Live Rule Builder**: Custom detection rules with real-time triggers
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Android App
 
@@ -81,7 +81,7 @@ npm run build
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 mobile-packet-hunter/
@@ -114,7 +114,7 @@ mobile-packet-hunter/
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Android
 | Layer | Technology |
@@ -142,7 +142,7 @@ mobile-packet-hunter/
 
 ---
 
-## 📖 Usage Guide
+##  Usage Guide
 
 ### Android App Workflow
 
@@ -197,7 +197,7 @@ mobile-packet-hunter/
 
 ---
 
-## 🔒 Security & Privacy
+##  Security & Privacy
 
 ### Legal Compliance
 - **Consent Enforcement**: Mandatory legal notice on first launch
@@ -211,16 +211,16 @@ mobile-packet-hunter/
 
 ### Ethical Use
 This tool is intended for:
-- ✅ Authorized security professionals
-- ✅ Network administrators
-- ✅ Security researchers (with proper authorization)
-- ✅ Educational purposes (in controlled environments)
+-  Authorized security professionals
+-  Network administrators
+-  Security researchers (with proper authorization)
+-  Educational purposes (in controlled environments)
 
 **Unauthorized network monitoring is illegal in most jurisdictions.**
 
 ---
 
-## 🎬 Demo Scenarios
+##  Demo Scenarios
 
 ### Scenario 1: HTTP Traffic Analysis
 ```
@@ -251,7 +251,7 @@ This tool is intended for:
 
 ---
 
-## 📊 Performance
+##  Performance
 
 ### Android App
 - **CPU Usage**: <5% average during capture
@@ -266,7 +266,7 @@ This tool is intended for:
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Android
 
@@ -289,7 +289,7 @@ This tool is intended for:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please:
 1. Fork the repository
@@ -308,28 +308,12 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ---
 
-## 🏆 Hackathon Checklist
-
-- [x] **Core MVP Features**: All implemented
-- [x] **Bonus Features**: All 4 implemented  
-- [x] **Android App**: Fully functional with Compose UI
-- [x] **Desktop App**: React/TypeScript with all views
-- [x] **Export/Import**: PCAP + JSON + Evidence bundles
-- [x] **Documentation**: Comprehensive README
-- [x] **Demo Ready**: Clear usage scenarios
-- [x] **Build Scripts**: Gradle + npm configured
-- [x] **Sample Data**: Included for testing
-
----
-
 ## 📞 Contact & Support
 
-**Project**: Mobile Packet Hunter  
+**Project**: AFTERPACKETS  
 **Version**: 1.0.0  
 **Platform**: Android 8.0+ | Web (Modern Browsers)  
 **Repository**: [GitHub Link]  
 **Issues**: [Issues Page]
 
 ---
-
-*Built with ❤️ for cybersecurity professionals worldwide*
